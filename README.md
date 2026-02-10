@@ -82,11 +82,3 @@ Frontend dizininde:
 npm run dev
 ```
 Bu komut, arayüzü `http://localhost:5173` (veya benzeri bir portta) başlatır. Tarayıcınızda bu adrese giderek ajanı kullanmaya başlayabilirsiniz.
-
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen bir "Issue" açın veya "Pull Request" gönderin.
-
-## 📄 Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır.
